@@ -1,4 +1,4 @@
-# Data-Cleaning
+# Data-Preprocessing
 Ive prepared the data by treating the missing values and outliers and performed Exploratory Data Analysis to gain some meaningful insights from data
 
 # Dataset used
